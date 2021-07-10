@@ -14,7 +14,7 @@ For this I will create a neural network by using Data Manipulation, creating tra
 - The varibales being considered for my model are as follows: 'STATUS', 'ASK_AMT', 'IS_SUCCESSFUL', 'APPLICATION_TYPE', 'CLASSIFICATION', 'USE_CASE', 'ORGANIZATION', 'INCOME_AMT'. - I dropped "USE_CASE_Other","AFFILIATION_Other" columns.
   My Dependent varible is "IS_SUCCESFUL" since we want to try to predict this with high accuracy.
   
-##### Compiling, Training, and Evaluating the Model Attempt #1
+##### Attempt #1
 
 - 2 Hidden Layers
 - 80 neurons (Layer1), 30 neurons(Layer2)
@@ -22,6 +22,15 @@ For this I will create a neural network by using Data Manipulation, creating tra
 - Removed "USE_CASE_Other","AFFILIATION_Other" columns.
 
 ![img1](https://github.com/ritwikthakar/Neural-Network-Deep-Learning-Models/blob/main/images/img1.PNG)
+
+##### Attempt 2
+
+3 Hidden Layers
+80 neurons (Layer1), 30 neurons(Layer2), 15 neurons(Layer3)
+Used Relu and Sigmoid Activations Functions since sigmoid is best for binary classifcation problems as this and relu is for nonlinear datasets.
+Removed "USE_CASE_Other","AFFILIATION_Other" columns.
+
+
 
 ### Summary
 

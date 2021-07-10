@@ -30,7 +30,7 @@ For this I will create a neural network by using Data Manipulation, creating tra
 Used Relu and Sigmoid Activations Functions since sigmoid is best for binary classifcation problems as this and relu is for nonlinear datasets.
 Removed "USE_CASE_Other","AFFILIATION_Other" columns.
 
-
+![img2](https://github.com/ritwikthakar/Neural-Network-Deep-Learning-Models/blob/main/images/img2.PNG)
 
 ### Summary
 

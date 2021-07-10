@@ -40,6 +40,9 @@ For this I will create a neural network by using Data Manipulation, creating tra
 - Used Relu and Sigmoid Activations Functions since sigmoid is best for binary classifcation problems as this and relu is for nonlinear datasets.
 - Went back to original dataset
 
+![img3](https://github.com/ritwikthakar/Neural-Network-Deep-Learning-Models/blob/main/images/img3.PNG)
+
+
 ### Summary
 
 On Average my models kept around 73% accuracy score which is decent considering it was an improvement. My recommendation to improve this model would be to find better features to help explain what determines "IS_SUCCESFUL" such as more indepth knowledge of the other associates/ firms being funded. At the end of the day, knowledge is power and if we had more indepth data between all these applications, we can create a better model.

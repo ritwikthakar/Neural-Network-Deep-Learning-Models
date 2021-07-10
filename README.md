@@ -20,5 +20,5 @@ For this I will create a neural network by using Data Manipulation, creating tra
 - 80 neurons (Layer1), 30 neurons(Layer2)
 - Used Relu and Sigmoid Activations Functions since sigmoid is best for binary classifcation problems as this and relu is for nonlinear datasets.
 - Removed "USE_CASE_Other","AFFILIATION_Other" columns.
-
+[!img1](https://github.com/ritwikthakar/Neural-Network-Deep-Learning-Models/blob/main/images/img1.PNG)
 
